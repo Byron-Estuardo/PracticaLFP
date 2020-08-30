@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Luis Fernando",
+        "edad": 25,
+        "activo": true,
+        "promedio": 85.6982
+    },
+    {
+        "nombre": "Billy Anderson",
+        "edad": 69,
+        "activo": false,
+        "promedio": 45.933
+    }
+]

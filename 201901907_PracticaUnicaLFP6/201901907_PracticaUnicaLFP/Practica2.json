@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Byron Estuardo",
+        "edad": 20,
+        "activo": true,
+        "promedio": 70.056
+    },
+    {
+        "nombre": "Maria Jose",
+        "edad": 21,
+        "activo": false,
+        "promedio": 99.125
+    }
+]

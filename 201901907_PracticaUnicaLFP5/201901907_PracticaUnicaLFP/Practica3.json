@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Ana Lucia",
+        "edad": 20,
+        "activo": true,
+        "promedio": 69.365
+    },
+    {
+        "nombre": "Jose Ajcip",
+        "edad": 41,
+        "activo": false,
+        "promedio": 55.687
+    }
+]
